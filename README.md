@@ -1,10 +1,10 @@
-# CryptionX - A Next-Gen Open Encryption Framework
+# CryptionX - A Next-Gen Open-Source Encryption Framework
 
 [![PyPI version](https://badge.fury.io/py/cryptionx.svg)](https://badge.fury.io/py/cryptionx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Versions](https://img.shields.io/pypi/pyversions/cryptionx.svg)](https://pypi.org/project/cryptionx/)
 
-**Simple, open, and transparent encryption for everyone.**
+**Simple, open-source, and transparent encryption for everyone.**
 
 CryptionX is a modern, simple, and transparent encryption framework for Python. It is built with a clear goal: to provide real, understandable implementations of common cryptographic algorithms with **zero external dependencies**. All algorithms are implemented from scratch using only the Python standard library, making it a powerful tool for learning, prototyping, and situations where external dependencies are not an option.
 
