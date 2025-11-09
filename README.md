@@ -305,9 +305,9 @@ print(f"Decrypted:  {decrypted}")
 ---
 
 ## License
-CryptionX is licensed under the [![MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for details.
+CryptionX is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the LICENSE file for details.
 
 ---
 
 ## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [!issues page](https://github.com/Matt-The-Generico/cryptionx/issues) if you want to contribute or create a [!PR](https://github.com/Matt-The-Generico/cryptionx/pulls).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Matt-The-Generico/cryptionx/issues) if you want to contribute or create a [PR](https://github.com/Matt-The-Generico/cryptionx/pulls).
